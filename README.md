@@ -9,3 +9,5 @@ Redux
 Typescript
 Jest
 Webpack
+Babel
+Docker
